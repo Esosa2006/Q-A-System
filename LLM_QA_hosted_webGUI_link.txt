@@ -1,4 +1,4 @@
-Name: [Your Name Here]
-Matric number: [Your Matric Number Here]
-Live URL of hosted application: [Link to Render/PythonAnywhere/etc]
-GitHub repository link: [Link to your GitHub Repo]
+Name: Uwuilekhue Esosa Kosisochukwu
+Matric number: 22cg031970
+Live URL of hosted application: https://llm-qa-project-u0dg.onrender.com/
+GitHub repository link: https://github.com/Esosa2006/Q-A-System
